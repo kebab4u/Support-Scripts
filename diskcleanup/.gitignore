@@ -1,0 +1,8 @@
+# Output/rapporter
+DiskCleanupReports/
+DiskCleanup_*/
+*.log
+*.csv
+*.json
+*.zip
+*_ERROR_*.txt
