@@ -1,0 +1,7 @@
+# Output fra nettverksanalyse
+NettverksAnalyser/
+*.csv
+*.json
+*.log
+*.zip
+NetDiag_ERROR_*.txt
