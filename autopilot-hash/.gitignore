@@ -1,0 +1,9 @@
+# Output fra scriptet
+AutopilotHash/
+*.csv
+
+# PowerShell/Windows støy
+*.log
+*_ERROR_*.txt
+Thumbs.db
+.DS_Store
